@@ -1,7 +1,7 @@
 # Self-Learning Coding Repository
 
 ## Overview
-Welcome to the "Self-Learning Coding" repository!
+Welcome to the "Self Learning Coding" repository!
 
 ![Code Illustration](https://cdn-icons-png.flaticon.com/512/1488/1488581.png)
 
