@@ -1,4 +1,4 @@
-# Self-Learning Coding Repository
+# Self Learning Coding Repository
 
 ## Overview
 Welcome to the "Self Learning Coding" repository!
