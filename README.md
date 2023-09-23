@@ -1,7 +1,5 @@
 # Self Learning Coding Repository
 
-# Test
-
 ## Overview
 
 Welcome to the "Self Learning Coding" repository!
